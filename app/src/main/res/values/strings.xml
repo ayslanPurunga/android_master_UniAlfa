@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">provaAndroid</string>
+    <string name="txtOla">Olá</string>
+    <string name="txtRA">Seu RA é</string>
+</resources>
